@@ -1,2 +1,2 @@
 # Portfolio
-Meu priemiro carinho de compra. 
+Meu primeiro carrinho de compra.
